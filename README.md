@@ -17,3 +17,5 @@ Open **http://localhost:3000** (serves the project root). You can also open `ind
 - `matches.html` — Match list (edit the markup to update results)
 - `images/logo.svg` — Team mark (replace with your own art anytime)
 - Roster cards use initials on gradient panels until you add jersey images again
+=======
+# FredericFanclub
